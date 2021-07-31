@@ -1,0 +1,11 @@
+Main Tables - Artist Management Agency
+Artist - Artist Name, First Name, Last Name, DOB, Work Phone, Personal Phone, Email, City, State, Country, Instrument code. 
+Bands -  Band Name, GenreCode, NumberofMembers,Years Active, Monthly Listeners, Venue Code, Set date time, Duration, Payout.
+
+
+Lookup Tables
+
+
+Venue Code - Venue Code, Venue Name, Venue Size, Venue City, Venue Country. 
+Genre - Genre Code, Genre Name.
+Intrument - Intrument Code, Instrument Name.

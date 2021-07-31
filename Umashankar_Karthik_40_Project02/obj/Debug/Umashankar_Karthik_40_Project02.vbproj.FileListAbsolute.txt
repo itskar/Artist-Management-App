@@ -1,0 +1,15 @@
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\bin\Debug\Umashankar_Karthik_40_Project02.exe.config
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\bin\Debug\Umashankar_Karthik_40_Project02.exe
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\bin\Debug\Umashankar_Karthik_40_Project02.pdb
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\bin\Debug\Umashankar_Karthik_40_Project02.xml
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.vbprojAssemblyReference.cache
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.frmArtistManagement.resources
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.Resources.resources
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.spsArtistManagement.resources
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.vbproj.GenerateResource.cache
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.vbproj.CoreCompileInputs.cache
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.exe
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.xml
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.pdb
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.frmBookingDetails.resources
+M:\Spring 2020\CIS 2510 - GUI\Week 16\Project\Umashankar_Karthik_40_Project02\obj\Debug\Umashankar_Karthik_40_Project02.frmArtistDetails.resources

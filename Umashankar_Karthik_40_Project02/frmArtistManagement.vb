@@ -203,7 +203,7 @@ Public Class frmArtistManagement
     End Sub
 
     Private Sub DeleteArtists()
-        Dim connectionString As String = "Data Source=184.168.47.21;Initial Catalog=0000_DUPAGE;Persist Security Info=True;User ID=dupage;Password=dotnet4ever"
+        Dim connectionString As String = "Data Source=184.168.47.21;Initial Catalog=0000_DUPAGE;Persist Security Info=True;User ID=#####;Password=#########" 'Redacted
         Dim connection As New SqlConnection(connectionString)
 
         Dim deleteStatement As String = "DELETE FROM mod40Artist WHERE ArtistId = @ArtistId"
@@ -252,7 +252,7 @@ Public Class frmArtistManagement
 
     Private Sub LoadArtistPayouts()
         'Dim connectionString As String = ConfigurationManager.ConnectionStrings("DuPageDatabase").ConnectionString
-        Dim connectionString As String = "Data Source=184.168.47.21;Initial Catalog=0000_DUPAGE;Persist Security Info=True;User ID=dupage;Password=dotnet4ever"
+        Dim connectionString As String = "Data Source=184.168.47.21;Initial Catalog=0000_DUPAGE;Persist Security Info=True;User ID=#####;Password=#########" 'Redacted
         Dim connection As New SqlConnection(connectionString)
         Dim selectChart As String = "SELECT * FROM mod40Bookings"
 
@@ -282,7 +282,7 @@ Public Class frmArtistManagement
     End Sub
 
     Private Sub LoadArtistMonthlyListeners()
-        Dim connectionString As String = "Data Source=184.168.47.21;Initial Catalog=0000_DUPAGE;Persist Security Info=True;User ID=dupage;Password=dotnet4ever"
+        Dim connectionString As String = "Data Source=184.168.47.21;Initial Catalog=0000_DUPAGE;Persist Security Info=True;User ID=#####;Password=#########" 'Redacted
         Dim connection As New SqlConnection(connectionString)
         Dim selectChart As String = "SELECT * FROM mod40Bookings"
 
@@ -313,7 +313,7 @@ Public Class frmArtistManagement
 
     Private Sub LoadVenueSizes()
 
-        Dim connectionString As String = "Data Source=184.168.47.21;Initial Catalog=0000_DUPAGE;Persist Security Info=True;User ID=dupage;Password=dotnet4ever"
+        Dim connectionString As String = "Data Source=184.168.47.21;Initial Catalog=0000_DUPAGE;Persist Security Info=True;User ID=#####;Password=#########" 'Redacted
         Dim connection As New SqlConnection(connectionString)
         Dim selectChart As String = "SELECT * FROM mod40Venues"
 
